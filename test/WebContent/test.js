@@ -4,5 +4,5 @@ window.onload = function(){
 	btn.onclick = abc;
 };
 function abc(){
-	alert('click the button!');
+	alert('click the button!---start branch2');
 }
