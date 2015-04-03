@@ -4,5 +4,5 @@ window.onload = function(){
 	btn.onclick = abc;
 };
 function abc(){
-	alert('click the button!');
+	alert('click the button!---chang by jane');
 }
