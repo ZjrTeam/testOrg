@@ -6,6 +6,6 @@ window.onload = function(){
 };
 function abc(){
          alert('hello!');
-	console.log('click the button!---first change');
+	console.log('click the button!---second change');
 }
 
