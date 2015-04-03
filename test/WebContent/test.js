@@ -1,5 +1,5 @@
 window.onload = function(){
-	alert('abc');
+	alert('welcome!');
 	var btn = document.getElementById('btn');
 	btn.onclick = abc;
 };
