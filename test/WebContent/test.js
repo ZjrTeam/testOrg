@@ -5,6 +5,6 @@ window.onload = function(){
 	btn.onclick = abc;
 };
 function abc(){
-	alert('click the button!---first change');
+	console.log('click the button!---first change');
 }
 
